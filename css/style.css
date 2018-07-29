@@ -29,7 +29,6 @@ time, mark, audio, video, textarea {
 /*-------- style of tegs --------------*/
 body{
     font-family: 'Open Sans', sans-serif;
-    
     font-size: 15px;
     line-height: 26px;
     color: #777777;
@@ -39,17 +38,19 @@ body{
 h1{
     font-family: 'Dosis', sans-serif;
     font-size: 30px;
-    line-height: 38px;
-    color: #fefefe;
     font-weight: 400;
-    font-stretch: 190%;
-    opacity: 90%;
+    color: #ffffff;
+    opacity: 0.9;
+    letter-spacing: 1.4em;
+
+    text-align: center;
+    text-transform: uppercase;
 }
 
 /*-------- section --------------*/
 .section-1{
     padding-top: 70px;
-    padding-bottom: 70px;
+    padding-bottom: 100px;
     background-image: url(../images/first-project-lp_05.png);
     background-size: cover;
     background-position: center;
@@ -57,4 +58,3 @@ h1{
     text-align: center;
 
 }
-
